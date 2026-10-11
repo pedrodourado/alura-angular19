@@ -73,3 +73,27 @@ section img {
   width: 64px;
   border-bottom: 4px solid var(--color-primaria);
 }
+section {
+    /* código já existente omitido */
+    border-top: 24px solid; 
+}
+
+.romance {
+  border-color: #82CFFA;
+}
+
+.misterio {
+  border-color: #A6D157;
+}
+
+.fantasia {
+  border-color: #E06B69;
+}
+
+.ficcao-cientifica {
+  border-color: #DB6EBF;
+}
+
+.tecnicos {
+  border-color: #FF8A29;
+}
